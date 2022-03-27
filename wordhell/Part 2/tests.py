@@ -1,4 +1,4 @@
-from wordhell import guess_barrage
+from wordhella import guess_barrage
 import json
 
 #############################################
